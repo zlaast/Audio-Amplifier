@@ -21,7 +21,7 @@ This is by no means feature complete, as more features may be added later on
 
 ### Circuit Overview
 
-![Audio Amplifier](https://github.com/zlaast/Audio-Amplifier/blob/main/Audio%20Amplifier.png)
+![Audio Amplifier](https://github.com/zlaast/Audio-Amplifier/blob/main/Images/Audio%20Amplifier.png)
 
 
 
