@@ -1,7 +1,7 @@
 # Audio Amplifier
 ### About
 
-This audio amplifier can provide 40W of power per speaker, for four speakers (160W total).
+This audio amplifier can provide 6W of power per speaker, for four speakers (24W total).
 The controls are meant to be simple, with only an on/off button, two knobs, both which can be pressed, and an LCD screen.
 
 Please refer to the [wiki](https://github.com/zlaast/Audio-Amplifier/wiki) for more detailed technical information.
