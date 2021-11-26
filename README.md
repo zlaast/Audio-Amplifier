@@ -3,7 +3,7 @@
 
 This audio amplifier can provide 15W of power per speaker, for four speakers (60W total).
 
-Please refer to the [wiki](https://github.com/zlaast/Audio-Amplifier/wiki) for more detailed technical information.
+Please refer to the [my website](#) (which doesn't exist yet, but I'm working on it) for more detailed information.
 
 ### Features
 
