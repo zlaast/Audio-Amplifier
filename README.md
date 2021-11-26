@@ -7,13 +7,13 @@ Please refer to the [wiki](https://github.com/zlaast/Audio-Amplifier/wiki) for m
 
 ### Features
 
-The audio amplifier (stereo amplifier) is meant to be a simple to use amplifier, with the following features:
+The audio amplifier is meant to be a simple to use amplifier, with the following features:
 
 - Simple interface using:
   - An LCD Screen
   - An On/Off button
   - Two knobs with built in switches
-- Knob 1 controls volume and pressing it mutes the speakers
+- Knob 1 controls volume and pressing it mutes the speakers for either a speaker pair, or all speakers.
 - Knob 2 selects a speaker pair, or all speakers. Pressing it toggles a speaker pair, or all speakers, between stereophonic and monophonic.
 
 ### Circuit Overview
