@@ -1,7 +1,7 @@
 # Audio Amplifier
 ### About
 
-This audio amplifier can provide 15W of power per speaker, for four speakers (60W total).
+This audio amplifier can provide 15W of power per speaker, for four speakers (60W total). It is based on the STMicroelectronics TDA7297 chip.
 
 Please refer to [my website](#) (which doesn't exist yet, but I'm working on it) for more detailed information.
 
