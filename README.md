@@ -20,5 +20,7 @@ The audio amplifier is meant to be a simple to use amplifier, with the following
 
 ![Audio Amplifier](https://github.com/zlaast/Audio-Amplifier/blob/main/Images/Amplifier%20-%20Flow%20Chart.png)
 
+### External Libraries
+Arduino Threads: Uses time-based "threading". Available at [https://github.com/ivanseidel/ArduinoThread](https://github.com/ivanseidel/ArduinoThread)
 
 
